@@ -60,8 +60,6 @@ DRF+S3/
 
 ## 🖼 Screenshot
 
-Include your UI screenshot in a folder named `./screenshot/` and display it here:
-
 ![Gallery Screenshot](./screenshot/gallery-ui.png)
 
 ---
