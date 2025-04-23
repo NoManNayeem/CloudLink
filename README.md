@@ -9,7 +9,7 @@ CloudLink is a full-stack image gallery application that lets users upload and v
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cloudlink.git
+git clone https://github.com/NoManNayeem/CloudLink.git
 cd cloudlink
 ```
 
